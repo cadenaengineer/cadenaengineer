@@ -2,7 +2,7 @@
 Portfólio pessoal de Felipe Cadena
 # 👨‍💻 Felipe Cadena
 
-🎓 Futuro Engenheiro da Computação | Técnico em Eletricidade (SENAI Barueri)  
+🎓 Futuro Engenheiro da Computação | Eletricista Instalador (SENAI Barueri)  
 🔧 Foco em eletrônica, automação, sistemas embarcados e programação  
 🌎 São Paulo - SP | GitHub: [cadenaengineer](https://github.com/cadenaengineer)
 
